@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752769077722",
+    "project_id": "bottle-adff9",
+    "storage_bucket": "bottle-adff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752769077722:android:f5af8a232460e48e07f0e3",
+        "android_client_info": {
+          "package_name": "com.idea.capsule_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752769077722-dm11j35ado8slsb44opms5ta127osrbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxlyMi9_iD6RuSuyzT14fMo13j727dZC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752769077722-dm11j35ado8slsb44opms5ta127osrbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
